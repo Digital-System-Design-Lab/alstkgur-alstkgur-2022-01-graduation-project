@@ -35,7 +35,7 @@
 - 해당 Repository를 git clone
 
 - 다음 링크에서 Resources.zip을 다운받아 Assets/Resource에 압축풀기
-	- https://drive.google.com/file/d/1CafZHPfBEZUIJ_cP3i6F46njZmRcA7sn/view?usp=sharing
+	- https://drive.google.com/file/d/1agdrsL4bxdmSJaEcEx4a0jBxZ8O47SHd/view?usp=sharing
 
 - Unity에서 불러오기
 	- 해당 프로젝트는 Unity 2019.4.34f1에서 제작됨
@@ -46,3 +46,25 @@
 	- P 입력시 Portal에서 Mob생성
 	
 - Android Apk로 빌드 가능
+
+- 음원 출처
+	-1)게임실행시: Fluffing a Duck by Kevin MacLeod(Fluffing a Duck Kevin MacLeod (incompetech.com)
+	Licensed under Creative Commons: By Attribution 3.0 License
+	http://creativecommons.org/licenses/by/3.0/
+	Music promoted by https://www.chosic.com/free-music/all/)
+	-2) 게임시작시: Aggressive Computer Gaming | ENIGMA by Alex-Productions(Aggressive Computer Gaming | ENIGMA by Alex-Productions | https://www.youtube.com/channel/UCx0_M61F81Nfb-BRXE-SeVA
+	Music promoted by https://www.chosic.com/free-music/all/
+	Creative Commons CC BY 3.0
+	https://creativecommons.org/licenses/by/3.0/)
+	-3)메뉴진입시: The Success by Keys of Moon(The Success by Keys of Moon | https://soundcloud.com/keysofmoon
+	Music promoted by https://www.chosic.com/free-music/all/
+	Attribution 4.0 International (CC BY 4.0)
+	https://creativecommons.org/licenses/by/4.0/)
+	-4)게임오버시: Dramatic Hit by Sound Effects(Music: https://www.chosic.com/free-music/all/)
+	-5)게임클리어시: Bliss by Luke Bergs(Bliss by Luke Bergs | https://soundcloud.com/bergscloud/
+	Creative Commons - Attribution-ShareAlike 3.0 Unported
+	https://creativecommons.org/licenses/by-sa/3.0/
+	Music promoted by https://www.chosic.com/free-music/all/)
+	-6) 버튼 클릭시: Interface Sound8
+	https://www.pacdv.com/sounds/index.html
+
