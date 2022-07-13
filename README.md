@@ -52,7 +52,7 @@
 		Licensed under Creative Commons: By Attribution 3.0 License
 		http://creativecommons.org/licenses/by/3.0/
 		Music promoted by https://www.chosic.com/free-music/all/)
-	- 2) 게임시작시: Aggressive Computer Gaming | ENIGMA by Alex-Productions(Aggressive Computer Gaming | ENIGMA by Alex-Productions | https://www.youtube.com/channel/			UCx0_M61F81Nfb-BRXE-SeVA
+	- 2)게임시작시: Aggressive Computer Gaming | ENIGMA by Alex-Productions(Aggressive Computer Gaming | ENIGMA by Alex-Productions | https://www.youtube.com/channel/			UCx0_M61F81Nfb-BRXE-SeVA
 		Music promoted by https://www.chosic.com/free-music/all/
 		Creative Commons CC BY 3.0
 		https://creativecommons.org/licenses/by/3.0/)
@@ -65,6 +65,6 @@
 		Creative Commons - Attribution-ShareAlike 3.0 Unported
 		https://creativecommons.org/licenses/by-sa/3.0/
 		Music promoted by https://www.chosic.com/free-music/all/)
-	- 6) 버튼 클릭시: Interface Sound8
+	- 6)버튼 클릭시: Interface Sound8
 		https://www.pacdv.com/sounds/index.html
 
