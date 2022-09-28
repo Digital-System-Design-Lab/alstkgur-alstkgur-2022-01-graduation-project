@@ -47,6 +47,9 @@
 	
 - Android Apk로 빌드 가능
 
+- 실제 시연영상 및 ppt 참고자료
+        - https://drive.google.com/drive/folders/1mPLv3LS6fEhZRAkb8ha1YiCw9Y3mNqHe?usp=sharing
+
 - 음원 출처
 	- 1)게임실행시: Fluffing a Duck by Kevin MacLeod(Fluffing a Duck Kevin MacLeod (incompetech.com)
 		Licensed under Creative Commons: By Attribution 3.0 License
